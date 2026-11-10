@@ -1,0 +1,19 @@
+{
+  "commit": "be5e9f72c6681af9dfb75bf480f08844f1499949",
+  "repository": "https://github.com/NousResearch/hermes-agent",
+  "retrieved_date": "2026-10-14",
+  "verification": "Static source inspection only; actual LLM runtime not executed",
+  "files": {
+    "run_agent.py": "2dda8e9bb530d8da54cfb1625f624a5b9533300f1be828b689cfd5e73bbae373",
+    "agent/tool_executor.py": "c2c65ba2d5d0847f968321e0438f2dd3c87973cb2680acb5cd52192f48b602ab",
+    "agent/turn_facade.py": "5797b456f1ac86fb099c4f20c39a2652b63c72d0c9098c9e72ad66cd47ee63ae",
+    "agent/agent_runtime_helpers.py": "5a1d8f87f8904fa84f2df724767da055c03567d96c753d304b1e985fbdbd2755",
+    "tools/delegate_tool.py": "91df0e5c338fa2212f7aac8ff96aaf7d7406b644185ad75129b3ee5ae3d25fc0",
+    "tools/memory_tool_store.py": "2a44cc0ea35066a4320395d63997f26011525c9ffe04183e562e16575837f488",
+    "tools/memory_tool.py": "b320209ccdcab67e2b8b09be70e29bf01360735cebcb99ca55c8758374ccd4e1",
+    "tools/file_tools.py": "0aa29e6544ea7b30962db1f5482f85e7405fd417dc87210d5bb6838a0b421bbf",
+    "tools/terminal_tool.py": "5eea5fe78ee5736a154bdfee22afcfd6397b01a66bb4a7b6565a44c18fcba93a",
+    "agent/agent_init.py": "c9c96e5e1b5d55e6c8186bbcca108b547a47985df211704b5b36d09433b3128f",
+    "tools/mcp_tool.py": "f773d6ce6ce03e29e2ecc4365842f54bf8f206ce8136bb27c4c194b2978bd35d"
+  }
+}

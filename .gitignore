@@ -1,0 +1,42 @@
+# Local credentials and configuration
+.env
+.env.*
+!.env.example
+postgres.env
+*.pem
+*.key
+
+# Python environments and caches
+.venv*/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+*.egg-info/
+
+# Frontend dependencies and build output
+node_modules/
+frontend/dist/
+*.tsbuildinfo
+
+# Local runtime data and reports
+/data/
+/output/
+*.log
+*.sqlite
+*.sqlite3
+*.sqlite-wal
+*.sqlite-shm
+*.sqlite3-wal
+*.sqlite3-shm
+
+# Editor and operating system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+Desktop.ini

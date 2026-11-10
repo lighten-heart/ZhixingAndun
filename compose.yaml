@@ -1,0 +1,19 @@
+services:
+  aegisguard:
+    build: .
+    ports:
+      - "127.0.0.1:8765:8765"
+    env_file:
+      - path: .env
+        required: false
+    environment:
+      GUARD_DATA_DIR: /app/data
+    volumes:
+      - evidence:/app/data
+    restart: unless-stopped
+    security_opt:
+      - no-new-privileges:true
+    cap_drop:
+      - ALL
+volumes:
+  evidence:

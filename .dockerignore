@@ -1,0 +1,12 @@
+.venv*
+data
+.env
+postgres.env
+output
+tests
+frontend/node_modules
+frontend/dist
+**/__pycache__
+.pytest_cache
+**/*.pyc
+**/*.tsbuildinfo

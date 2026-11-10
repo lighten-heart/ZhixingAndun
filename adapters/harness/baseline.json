@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0-rc.2",
+  "source": "Installed DeepSeek Harness desktop runtime",
+  "upstream": "https://github.com/deepseek-ai/deepseek-harness",
+  "files": {
+    "node_modules/@deepseek-ai/dsh/package.json": "e104e8a1de8aafd30f4b5a6663a3407dd2df599f06507af2ff48bcee46112a5a",
+    "node_modules/@deepseek-ai/dsh/lib/bin.js": "1a03dee18683483ff6a1b27b2a1e650230da6bcca9a0f55f7d81b3308c3f307f",
+    "node_modules/@deepseek-ai/dsh-tools/lib/index.js": "40f47709337c3c205d4e09e647f8588f4977e66f6d52f019b3cc7ef81159d84f",
+    "node_modules/@deepseek-ai/dsh-agent/lib/index.js": "7b9aa39474de83115cf890dd7f8904cf0d59df0811cb335ab85565a04f1aac93",
+    "node_modules/@deepseek-ai/dsh-agent-loop/lib/index.js": "00c4814d63f3d1e2754eb09144832d19b30499d6ea444730473f740b587948c2",
+    "node_modules/@deepseek-ai/dsh-headless/lib/index.js": "31a4caa307b6a3bc0133e01d765c9449ff808725058639e32ebf0d020524e267",
+    "node_modules/@deepseek-ai/dsh-base/cordis.patch.yml": "9c2be64f46a193eff3cca190c26e697e8e8eee25c9b40149dfdb56f8142c252d",
+    "node_modules/@deepseek-ai/dsh-llm/lib/index.js": "9132c8a8053ee82b9fb1ded4f98c85cf557f288a15a85c552c6b1fb319ead120",
+    "node_modules/@deepseek-ai/dsh-llm-deepseek/lib/index.js": "226e2047b843f954d8478207613f3e44448671c6f98f8edee77008d0fe005484",
+    "node_modules/@deepseek-ai/dsh-subagent/lib/index.js": "75b50b1c9452a6aeb10d1c859e3f45b05e062ea1fad6ed3bcd9577f2bc912541",
+    "node_modules/@deepseek-ai/dsh-subagent-in-process-driver/lib/index.js": "a169b6dac8f9fd0ef6e8db4ec0d2c009580c5c10b6d561e6d214cbe9b89521d1",
+    "node_modules/@deepseek-ai/dsh-subagent-spawn-in-process/lib/index.js": "11c92108dd145957f8251a81fc9bfb8a30e7f6f25d96e34a5cb8581a4be4be06"
+  }
+}

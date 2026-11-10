@@ -1,0 +1,7 @@
+{
+  "repository": "deepseek-ai/DeepSeek-V4-Flash",
+  "revision": "6e763230a9d263eca2023f1d4a5ce1bfe126cf48",
+  "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash/resolve/6e763230a9d263eca2023f1d4a5ce1bfe126cf48/tokenizer.json",
+  "sha256": "8f9f37ca37fdc4f5fd36d5cf4d3b0e8392edb4e894fd10cc0d70b4957c8633cf",
+  "scope": "audit_source_mapping; provider alias is not a tokenizer identity"
+}

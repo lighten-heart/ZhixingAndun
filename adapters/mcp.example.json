@@ -1,0 +1,11 @@
+{
+  "server_id": "local-filesystem",
+  "title": "MCP README 阅读任务",
+  "intent": "读取项目 README 并总结安装方法",
+  "scope": "read_only",
+  "timeout_seconds": 30,
+  "upstream_command": ["python", "-m", "adapters.sample_mcp_server"],
+  "tool_map": {
+    "read_document": {"tool": "fs.read"}
+  }
+}
